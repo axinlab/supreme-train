@@ -10,7 +10,7 @@
 
 <h1 align="center" >The only 2D Graphics Editor you'll ever need</h1>
 
-![](https://private-user-images.githubusercontent.com/138253991/457112215-885e455c-6108-44a8-ba20-2410bc295d9e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNjA3MjksIm5iZiI6MTc1MDM2MDQyOSwicGF0aCI6Ii8xMzgyNTM5OTEvNDU3MTEyMjE1LTg4NWU0NTVjLTYxMDgtNDRhOC1iYTIwLTI0MTBiYzI5NWQ5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxOVQxOTEzNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MzlkYmFiY2E4Y2UxMzc5NjljMGE1YzgxMjE2OGIxNWZiOGYyNDlkN2ExZTc4ZmM2MzMyNjJkOWM5YTA2YjZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WDgp_mriVY2yLP5_ECGJvzeniK6SMoBnJ5t9sjM90Uw)
+![](https://github.com/nnakocaj/supreme-train/blob/main/interface.png)
 
 **PixiEditor** is a universal 2D editor that was made to provide you with tools and features for all your 2D needs. Create beautiful sprites for your games, animations, edit images, create logos. All packed up in an intuitive and familar interface.
 
@@ -23,7 +23,7 @@ PixiEditor 2.0 comes by default with 3 toolsets:
 
 All **toolsets can be used on one canvas**. Mix vector with raster. Export to png, jpg, svg, gif, mp4 and more!
 
-![](https://private-user-images.githubusercontent.com/138253991/457113826-439f4289-58f6-42f2-9d05-b6cc80fb7fc2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNjExNzYsIm5iZiI6MTc1MDM2MDg3NiwicGF0aCI6Ii8xMzgyNTM5OTEvNDU3MTEzODI2LTQzOWY0Mjg5LTU4ZjYtNDJmMi05ZDA1LWI2Y2M4MGZiN2ZjMi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxOVQxOTIxMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMjBmNjA1NDE2YzAyZGRkODhjZTRlNzUzZmEwZDg3NDE2MjU0YjE2ZGM2ZDE4MWY2M2MwZGUzNTNjN2VlZmZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MGoZt_kgXTIH1awVRdUCLz8HKMJu0BOYsnhtAAQGbD4)
+![](https://github.com/nnakocaj/supreme-train/blob/main/gif.gif))
 
 ### Animations
 
