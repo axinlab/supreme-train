@@ -10,7 +10,7 @@
 
 <h1 align="center" >The only 2D Graphics Editor you'll ever need</h1>
 
-![](https://github.com/nnakocaj/supreme-train/blob/main/userinterface.png)
+![](https://github.com/nnakocaj/supreme-train/blob/main/interface.png)
 
 **PixiEditor** is a universal 2D editor that was made to provide you with tools and features for all your 2D needs. Create beautiful sprites for your games, animations, edit images, create logos. All packed up in an intuitive and familar interface.
 
@@ -23,7 +23,9 @@ PixiEditor 2.0 comes by default with 3 toolsets:
 
 All **toolsets can be used on one canvas**. Mix vector with raster. Export to png, jpg, svg, gif, mp4 and more!
 
-![](https://github.com/nnakocaj/supreme-train/blob/main/gif.gif))
+<p align="center">
+  <img src="https://github.com/nnakocaj/supreme-train/blob/main/toolsets.gif?raw=true" width="70%" />
+</p>
 
 ### Animations
 
@@ -33,6 +35,8 @@ Key frame animations with vectors are on our roadmap.
 ### Nodes
 
 Node render system is what powers such extensive capabilities. All layers, effects and the layer structure are nodes or a result of its connections. PixiEditor exposes node graph for every document, so you are free to customize your image however you want and create procedural art/animations!
+
+![](https://github.com/nnakocaj/supreme-train/blob/main/node.png)
 
 ## Installation - PixiEditor 2.0
 
