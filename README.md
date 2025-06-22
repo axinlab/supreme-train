@@ -32,7 +32,7 @@ All **toolsets can be used on one canvas**. Mix vector with raster. Export to pn
 Version 2.0 comes with a timeline and animation capabilities. You can create frame by frame animations or use nodes to animate your custom shaders.
 Key frame animations with vectors are on our roadmap.
 
-![](https://github.com/nnakocaj/supreme-train/blob/main/timeline.png)
+![](https://github.com/nnakocaj/supreme-train/blob/main/timeline1.png)
 
 ### Nodes
 
