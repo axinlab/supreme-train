@@ -10,7 +10,7 @@
 
 <h1 align="center" >The only 2D Graphics Editor you'll ever need</h1>
 
-![](https://github.com/nnakocaj/supreme-train/blob/main/interface.png)
+![](https://github.com/nnakocaj/supreme-train/blob/main/userinterface.png)
 
 **PixiEditor** is a universal 2D editor that was made to provide you with tools and features for all your 2D needs. Create beautiful sprites for your games, animations, edit images, create logos. All packed up in an intuitive and familar interface.
 
