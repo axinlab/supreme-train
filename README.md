@@ -32,6 +32,8 @@ All **toolsets can be used on one canvas**. Mix vector with raster. Export to pn
 Version 2.0 comes with a timeline and animation capabilities. You can create frame by frame animations or use nodes to animate your custom shaders.
 Key frame animations with vectors are on our roadmap.
 
+![](https://github.com/nnakocaj/supreme-train/blob/main/timeline.png)
+
 ### Nodes
 
 Node render system is what powers such extensive capabilities. All layers, effects and the layer structure are nodes or a result of its connections. PixiEditor exposes node graph for every document, so you are free to customize your image however you want and create procedural art/animations!
