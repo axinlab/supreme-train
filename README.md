@@ -46,18 +46,6 @@ Node render system is what powers such extensive capabilities. All layers, effec
 
 ![](https://github.com/nnakocaj/supreme-train/blob/main/node.png)
 
-## Support
-
-Struggling with something? You can find support in a few places:
-
-* Check out [documentation](https://pixieditor.net/docs)
-
-* Ask on [Discord](https://discord.gg/qSRMYmq)
-* Check out [Forum](https://forum.pixieditor.net)
-* Open new [Issue](https://github.com/flabbet/PixiEditor/issues)
-* [Get help](https://pixieditor.net/help)
-
-
 ## Building
 
 ### Software Requirements
