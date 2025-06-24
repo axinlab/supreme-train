@@ -1,4 +1,11 @@
 <div align="center">
+
+[![Release](https://img.shields.io/github/v/release/flabbet/PixiEditor)](https://github.com/flabbet/PixiEditor/releases) 
+[![Downloads](https://img.shields.io/github/downloads/PixiEditor/PixiEditor/total)](https://github.com/flabbet/PixiEditor/releases)
+[![Discord Server](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/qSRMYmq)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/PixiEditor?label=%20r%2FPixiEditor&logoColor=%23e3002d)](https://reddit.com/r/PixiEditor)
+[![Forum](https://img.shields.io/badge/PixiEditor-Forum-red?link=https%3A%2F%2Fforum.pixieditor.net%2F)](https://forum.pixieditor.net/)
+
 <img width="50%" align="center" src="https://github.com/user-attachments/assets/bd08c8bd-f610-449d-b1e2-6a990e562518">
 
 ## The only 2D Graphics Editor you'll ever need
@@ -9,11 +16,6 @@
 
 <a href="https://pixieditor.net/docs/contribution/starthere/">Contributing</a> • <a href="https://pixieditor.net/help">Help</a> • <a href="https://opencollective.com/pixieditor">Donate</a>
 
-[![Release](https://img.shields.io/github/v/release/flabbet/PixiEditor)](https://github.com/flabbet/PixiEditor/releases) 
-[![Downloads](https://img.shields.io/github/downloads/PixiEditor/PixiEditor/total)](https://github.com/flabbet/PixiEditor/releases)
-[![Discord Server](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/qSRMYmq)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/PixiEditor?label=%20r%2FPixiEditor&logoColor=%23e3002d)](https://reddit.com/r/PixiEditor)
-[![Forum](https://img.shields.io/badge/PixiEditor-Forum-red?link=https%3A%2F%2Fforum.pixieditor.net%2F)](https://forum.pixieditor.net/)
 </div>
 
 ![](https://github.com/nnakocaj/supreme-train/blob/main/interface.png)
