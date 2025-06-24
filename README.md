@@ -14,8 +14,6 @@
 
 <a href="https://pixieditor.net/download"><img src="https://github.com/nnakocaj/supreme-train/blob/main/download1.png" width="250" alt="Download"/></a>
 
-<a href="https://pixieditor.net/docs/contribution/starthere/">Contributing</a> • <a href="https://pixieditor.net/help">Help</a> • <a href="https://opencollective.com/pixieditor">Donate</a>
-
 </div>
 
 ![](https://github.com/nnakocaj/supreme-train/blob/main/interface.png)
@@ -46,17 +44,18 @@ Node render system is what powers such extensive capabilities. All layers, effec
 
 ![](https://github.com/nnakocaj/supreme-train/blob/main/node.png)
 
-## Building
+## Building from source
 
-### Software Requirements
+<p>Check out our <a href="https://pixieditor.net/docs/contribution/compileguide/">Compile Guide</a></p>
 
-* .NET 8 SDK
-* [wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - PixiEditor uses WASI modules for extensions
+## Contributing
 
+<p>For a seamless collaboration <a href="https://pixieditor.net/docs/contribution/starthere//">Start Here</a></p>
 
-## License
+## Help
 
-This project is licensed under the LGPLv3 License - see the [LICENSE.md](https://github.com/flabbet/PixiEditor/blob/master/LICENSE) - file for details
+<p>Got stuck? We are here to <a href="https://pixieditor.net/help">Help</a></p>
+
 
 </br></br>
 
